@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+}
+
+.header a {
+  margin: 0 10px;
+}
+
+.header a:first-child {
+  margin-left: 0;
+}
